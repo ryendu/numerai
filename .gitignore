@@ -1,0 +1,9 @@
+numerai_datasets/
+/numerai_datasets
+/wandb
+wandb/
+numerai_datasets.zip
+numerai_datasets
+models/
+/models
+secrets.json
